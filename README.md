@@ -1,1 +1,1 @@
-# kubernetes-avanzado
+# kubernetes-avanzado-course
